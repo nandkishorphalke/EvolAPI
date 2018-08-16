@@ -1,0 +1,12 @@
+F:\NANDKISHOR\Work\POC\WebAPIEvol\DataAccess\bin\Debug\DataAccess.dll.config
+F:\NANDKISHOR\Work\POC\WebAPIEvol\DataAccess\bin\Debug\DataAccess.dll
+F:\NANDKISHOR\Work\POC\WebAPIEvol\DataAccess\bin\Debug\DataAccess.pdb
+F:\NANDKISHOR\Work\POC\WebAPIEvol\DataAccess\bin\Debug\EntityFramework.dll
+F:\NANDKISHOR\Work\POC\WebAPIEvol\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+F:\NANDKISHOR\Work\POC\WebAPIEvol\DataAccess\bin\Debug\EntityFramework.xml
+F:\NANDKISHOR\Work\POC\WebAPIEvol\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+F:\NANDKISHOR\Work\POC\WebAPIEvol\DataAccess\obj\Debug\DataAccess.dll
+F:\NANDKISHOR\Work\POC\WebAPIEvol\DataAccess\obj\Debug\DataAccess.pdb
+F:\NANDKISHOR\Work\POC\WebAPIEvol\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+F:\NANDKISHOR\Work\POC\WebAPIEvol\DataAccess\bin\Debug\log4net.dll
+F:\NANDKISHOR\Work\POC\WebAPIEvol\DataAccess\bin\Debug\log4net.xml
